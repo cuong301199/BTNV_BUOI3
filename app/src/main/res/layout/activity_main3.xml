@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:background="@drawable/bg_edit_text"
+        android:hint="Nhập số "
+        android:padding="14dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/bg_edit_text"
+        android:hint="Nhập số"
+        android:padding="14dp" />
+
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/bg_edit_text"
+        android:hint="Kết quả"
+        android:padding="14dp" />
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:layout_margin="25dp"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_button_blue"
+            android:text="+"
+            android:textColor="@color/black"
+            android:textSize="19dp"
+            android:textAllCaps="false"
+            android:layout_weight="1"/>
+
+        <Button
+            android:layout_margin="25dp"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_button_blue"
+            android:text="-"
+            android:textColor="@color/black"
+            android:textSize="19dp"
+            android:textAllCaps="false"
+            android:layout_weight="1"/>
+        <Button
+            android:layout_margin="25dp"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_button_blue"
+            android:text="*"
+            android:textColor="@color/black"
+            android:textSize="19dp"
+            android:textAllCaps="false"
+            android:layout_weight="1"/>
+        <Button
+            android:layout_margin="25dp"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_button_blue"
+            android:text="/"
+            android:textColor="@color/black"
+            android:textSize="19dp"
+            android:textAllCaps="false"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+</LinearLayout>
