@@ -3,10 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/PC/AndroidStudioProjects/BTVN_BUOI3/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1805" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/BTVN_BUOI3/app/src/main/res/drawable/bg_button_blue.xml" value="0.1805" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/BTVN_BUOI3/app/src/main/res/drawable/bg_edit_text.xml" value="0.1805" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/BTVN_BUOI3/app/src/main/res/drawable/bg_edit_text_red.xml" value="0.1805" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/BTVN_BUOI3/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1805" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/BTVN_BUOI3/app/src/main/res/layout/activity_main.xml" value="0.19157608695652173" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/BTVN_BUOI3/app/src/main/res/layout/activity_main2.xml" value="0.19157608695652173" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/BTVN_BUOI3/app/src/main/res/layout/activity_main3.xml" value="0.19157608695652173" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/BTVN_BUOI3/app/src/main/res/layout/constraint_layout_1.xml" value="0.12360688956433637" />
       </map>
     </option>
   </component>
